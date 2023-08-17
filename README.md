@@ -1,3 +1,3 @@
-# Neural_Networks_Labs
+# Machine_Learning_Labs
 
 Labs of Neural Networks course in third year, faculty of engineering, Cairo university
